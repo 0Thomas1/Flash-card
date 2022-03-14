@@ -5,10 +5,14 @@ Create a flash card system for learning and memorizing
 
 Hiractchy :
 course > chapter > flash cards
-"""
-c = [ eng, chin ,hist]
+c = [eng, chin ,hist]
 eng = [ch1, ch2]
 ch1 = []
+"""
+
+course = []
+subject =[]
+
 def load_flashcards():
      
 
